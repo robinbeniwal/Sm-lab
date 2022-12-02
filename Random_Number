@@ -1,0 +1,2 @@
+r=rand(10,1,"uniform");
+disp(r)
